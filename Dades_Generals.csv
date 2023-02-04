@@ -1,0 +1,11 @@
+Nom_Departament,Acronim_Departament,Direccio,Latitud,Longitud,Web,Correo,Ranking_2022,Total_treballadors
+Departament d'Arquitectura de Computadors,AC,"Campus Diagonal Nord. Edifici D6. C. Jordi Girona, 1-3. 08034 Barcelona","41,38819766","2,132494",http://www.ac.upc.edu/ca,ac.usd.utgcntic@upc.edu,86,96
+Departament de Ciència dels Materials i Enginyeria Metal·lúrgica,CEM,"Campus Diagonal-Besòs - Edif. DBI Avda. Eduard Maristany, 16 08019 Barcelona","41,41368151","2,221977518",http://www.upc.edu/cmem/,cem.usd.utgcdb@upc.edu,49,94
+Departament de Ciències de la Computació,CS,"Campus Diagonal Nord. Edifici Omega. C. Jordi Girona, 29. 08034 Barcelona","41,38857662","2,1138229",http://www.cs.upc.edu,usd.utgcntic@upc.edu,86,124
+Departament d'Enginyeria Civil i Ambiental,DECA,"Campus Nord - Edif. C2 C. Jordi Girona, 1-3 08034 Barcelona","41,38842142","2,111530729",http://deca.upc.edu,direccio.deca@upc.edu,29,232
+Departament d'Enginyeria ElectròNica,EEL,"Campus Diagonal Nord. Edifici C4. C. Jordi Girona, 1-3. 08034 Barcelona","41,38834044","2,113010155",http://www.eel.upc.edu,eel.usd.utgcntic@upc.edu,52,138
+Departament d'Enginyeria Química,EQ,"Escola d'Enginyeria Barcelona Est, Campus Diagonal Besòs, Av Eduard Maristany, 16, Edif A, 08019 Barcelona","41,41222096","2,22069078",http://www.eq.upc.edu,eq.usd.utgcdb@upc.edu,125,99
+"Departament d'Enginyeria de Sistemes, Automàtica i Informàtica Industrial",ESAII,"Campus Diagonal Sud. Edifici H, planta 5. Av. Diagonal, 647. 08028 Barcelona","41,38480047","2,115657271",http://webesaii.upc.edu,esaii.asdi.utgaeib@upc.edu,60,105
+Departament de Física,FIS,"Campus Nord. Edifici B4. C. Jordi Girona, 1-3. 08034 Barcelona","41,38907494","2,112826034",http://fisica.upc.edu/ca,fis.usd.utgcntic@upc.edu,175,207
+Departament de Matemàtiques,MAT,"Campus Sud. Edifici U. C. Pau Gargallo, 5. 08028 Barcelona","41,38348426","2,115851194",http://www.mat.upc.edu/ca,administracio.mat@upc.edu,113,220
+Departament de Teoria del Senyal i Comunicacions,TSC,"Campus Diagonal Nord. Edifici D4. C. Jordi Girona, 1-3. 08034 Barcelona","41,38917878","2,111949921",http://www.tsc.upc.edu,tsc.usd.utgcntic@upc.edu,52,100
